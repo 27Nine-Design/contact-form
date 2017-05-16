@@ -1,5 +1,5 @@
-h1 {
-    font-family: 'Open Sans', sans-serif;
-    margin: 0 auto;
-    padding: 25px;
+app-contact-form {
+    display: flex;
+    justify-content: center;
+    font-family: "Open Sans", sans-serif;
 }
